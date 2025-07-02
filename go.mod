@@ -3,7 +3,7 @@
 // https://git.k8s.io/community/contributors/devel/sig-architecture/vendor.md
 // Run hack/pin-dependency.sh to change pinned dependency versions.
 // Run hack/update-vendor.sh to update go.mod files and the vendor directory.
-
+// New contribution
 module k8s.io/kubernetes
 
 go 1.24.0
